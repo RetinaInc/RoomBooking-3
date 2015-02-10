@@ -1,0 +1,41 @@
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+roomA
+Alan Jan 28 12 3 Seminar
+Alan Feb 4 12 3 Seminar
+Alan Feb 28 12 3 Seminar
+Alan Mar 7 12 3 Seminar
+Alan Mar 28 12 3 Seminar
+Alan Apr 4 12 3 Seminar
+Alan Apr 28 12 3 Seminar
+Jimmy May 3 7 5 Party
+Alan May 5 12 3 Seminar
+Jimmy May 10 7 5 Party
+Jimmy May 17 7 5 Party
+Alan May 28 12 3 Seminar
+Alan Jun 4 12 3 Seminar
+Alan Jun 28 12 3 Seminar
+Alan Jul 5 12 3 Seminar
+Alan Jul 28 12 3 Seminar
+Alan Aug 4 12 3 Seminar
+Alan Aug 28 12 3 Seminar
+Alan Sep 4 12 3 Seminar
+Alan Sep 28 12 3 Seminar
+Alan Oct 5 12 3 Seminar
+Alan Oct 28 12 3 Seminar
+Alan Nov 4 12 3 Seminar
+Alan Nov 28 12 3 Seminar
+Alan Dec 5 12 3 Seminar
+Alan Dec 28 12 3 Seminar
+Alan Dec 35 12 3 Seminar

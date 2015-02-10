@@ -1,0 +1,17 @@
+//DATES
+Room 30 roomA
+
+Book Alan 20 2 Jan 28 12 3 Seminar
+Book Alan 20 2 Feb 28 12 3 Seminar
+Book Alan 20 2 Mar 28 12 3 Seminar
+Book Alan 20 2 Apr 28 12 3 Seminar
+Book Alan 20 2 May 28 12 3 Seminar
+Book Alan 20 2 Jun 28 12 3 Seminar
+Book Alan 20 2 Jul 28 12 3 Seminar
+Book Alan 20 2 Aug 28 12 3 Seminar
+Book Alan 20 2 Sep 28 12 3 Seminar
+Book Alan 20 2 Oct 28 12 3 Seminar
+Book Alan 20 2 Nov 28 12 3 Seminar
+Book Alan 20 2 Dec 28 12 3 Seminar
+Book Jimmy 30 3 May 3 7 5 Party
+Print roomA

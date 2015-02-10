@@ -1,0 +1,15 @@
+//TESTING BOOK
+
+Room 30 roomA
+//Book Jimmy 35 3 May 3 7 5 Party
+Book Bobby 30 1 Jan 3 9 3 Dota
+Book Bobby 30 1 Dec 19 7 5 Party
+Book Jimmy 30 1 May 1 7 5 Party
+Book Jimmy 30 2 May 20 7 5 Party
+Book Jimmy 30 3 Feb 1 7 5 Party
+Book Jimmy 30 2 Sep 20 7 5 Party
+Book Jimmy 30 2 May 1 7 5 Party //reject
+Book Jimmy 30 3 Sep 6 7 5 Party //reject
+Print roomA
+
+//BOOK works

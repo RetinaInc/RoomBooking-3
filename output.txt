@@ -1,0 +1,19 @@
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Room roomA assigned
+Booking rejected
+Booking rejected
+roomA
+Bobby Jan 3 9 3 Dota
+Jimmy Feb 1 7 5 Party
+Jimmy Feb 8 7 5 Party
+Jimmy Feb 15 7 5 Party
+Jimmy May 1 7 5 Party
+Jimmy May 20 7 5 Party
+Jimmy May 27 7 5 Party
+Jimmy Sep 20 7 5 Party
+Jimmy Sep 27 7 5 Party
+Bobby Dec 19 7 5 Party

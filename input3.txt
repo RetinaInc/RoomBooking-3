@@ -1,0 +1,15 @@
+//TESTING CHANGE
+Room 30 roomA
+
+Book Jimmy 20 1 Jan 3 12 1 Lab
+Book Jimmy 20 1 Feb 3 12 1 Lab
+
+Change Jimmy roomA 1 Jan 3 12 20 Mar 1 12 1 Lab //Room roomA assigned
+
+Change Jimmsy rosomA 1 Jan 3 12 20 Mar 1 12 1 Lab // wrong name - Change rejected
+Change Jimmy roosmA 1 Jan 3 12 20 Mar 1 12 1 Lab // room - Change rejected
+Change Jimmy roomA 1 Jan 2 12 20 Mar 1 12 1 Lab // wrong date - Change rejected
+Change Jimmy roomA 1 Jan 3 12 20 Feb 3 12 3 Lab // not available(1) - Change rejected
+Change Jimmy roomA 1 Jan 3 12 20 Jan 27 12 3 Lab // not available(2) - Change rejected
+
+Print roomA
